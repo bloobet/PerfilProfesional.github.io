@@ -1,0 +1,17 @@
+table { border-style: solid;
+    border-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+
+th { 
+    border-style: groove;
+    border-color:brown;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td {
+    border-style: groove;
+    border-color:brown;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
